@@ -18,7 +18,7 @@
 I ❤ Open Source. I love [VSCode](https://code.visualstudio.com/) and [Python](https://www.python.org/).
 
 * Long-time **Web3** user&contributor
-* I'm currently learning **[Python](https://www.python.org/)**
+* I'm currently learning **[Python](https://www.python.org/)** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 * Author of several pet projects
 * I speak **English** (B1)
 
