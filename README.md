@@ -3,7 +3,7 @@
   <h3>Python developer from Russia</h3>
 </div>
 
-<a href="https://t.me/tagirvorop" style="">
+<a href="https://t.me/tagirvorop" style="display: inline-block; text-decoration: none;">
   <img src="https://ltdfoto.ru/images/2024/11/10/telegram.png" alt="telegram" style="height:70px;">
 </a>
 <a href="https://t.me/tagirvorop" style="">
