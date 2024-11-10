@@ -3,11 +3,11 @@
   <h3>Python developer from Russia</h3>
 </div>
 
-<a href="https://t.me/tagirvorop" style="">
-  <img src="https://ltdfoto.ru/images/2024/11/10/telegram.png" alt="telegram" style="height:70px; text-decoration: none;">
+<a href="https://t.me/tagirvorop" style="display:block;  text-decoration: none; ">
+  <img src="https://ltdfoto.ru/images/2024/11/10/telegram.png" alt="telegram" style="display:block; height:70px; text-decoration: none;">
 </a>
 <a href="https://t.me/tagirvorop" style="">
-  <img src="https://ltdfoto.ru/images/2024/11/10/whatsapp.png" alt="telegram" style="height:70px; text-decoration: none;">
+  <img src="https://ltdfoto.ru/images/2024/11/10/whatsapp.png" alt="telegram" style="display:block; height:70px; text-decoration: none;">
 </a>
 
 [![Github](https://img.shields.io/github/followers/Tagir-Voropaev?label=Follow&style=social)](https://github.com/Tagir-Voropaev)
