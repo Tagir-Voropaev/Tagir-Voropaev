@@ -7,7 +7,12 @@
   <img src="https://ltdfoto.ru/images/2024/11/10/telegram.png" alt="telegram">
 </a>
 
-
+<style>
+  img {
+  height: 70px;
+  width: 189px;
+  }
+</style>
 [![Github](https://img.shields.io/github/followers/Tagir-Voropaev?label=Follow&style=social)](https://github.com/Tagir-Voropaev)
 
 I ❤ Open Source. I love [VSCode](https://code.visualstudio.com/) and [Python](https://www.python.org/).
