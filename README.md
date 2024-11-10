@@ -23,4 +23,4 @@ I ❤ Open Source. I love <img align="center" title="vscode" width="15px" height
 * Author of several pet projects
 * I speak **English** (B1)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tagir-Voropaev&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tagir-Voropaev&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tagir-Voropaev&theme=default&utcOffset=8)
