@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Github](https://github.com/Tagir-Voropaev)
+[![Github](https://img.shields.io/github/followers/Tagir-Voropaev?label=Follow&style=social)](https://github.com/Tagir-Voropaev)
 
 <!--
 **Tagir-Voropaev/Tagir-Voropaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
