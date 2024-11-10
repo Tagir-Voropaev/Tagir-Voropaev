@@ -4,7 +4,7 @@
 </div>
 
 <a href="https://t.me/tagirvorop">
-  <img src="https://ltdfoto.ru/image/hoQf07" alt="telegram">
+  <img src="https://ltdfoto.ru/images/2024/11/10/telegram.png" alt="telegram">
 </a>
 
 
