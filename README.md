@@ -2,11 +2,9 @@
 
 [![Github](https://img.shields.io/github/followers/Tagir-Voropaev?label=Follow&style=social)](https://github.com/Tagir-Voropaev)
 
-I ❤ Open Source. I love [Vim](https://www.vim.org/) and [Go](https://golang.org).
+I ❤ Open Source. I love [VSCode](https://code.visualstudio.com/) and [Python](https://www.python.org/).
 
-* Long-time Golang user&contributor
-* Google Dev Expert for Go
-* Author of many Go tools
-* Vim plugin author (emmet-vim, vim-gist, vim-lsp-settings, etc)
-* Windows hacker
+* Long-time Python user&contributor
+* Author of several pet projects
+
 
