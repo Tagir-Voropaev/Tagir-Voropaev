@@ -14,7 +14,7 @@
 
 I ❤ Open Source.
 
-* Long-time **Web3** user&contributor
+* Long-time **Next Nest React TypeScript** user&contributor
 * I'm currently learning **JavaScript** <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="javascript" style="height:20px;">
 * Author of several pet projects
 * I speak **English** (B1)
