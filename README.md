@@ -15,7 +15,7 @@
 I ❤ Open Source.
 
 * Long-time **Web3** user&contributor
-* I'm currently learning **JavaScript**  [https://img.icons8.com/?size=100&id=108784&format=png&color=000000](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)
+* I'm currently learning **JavaScript**  [https://img.icons8.com/?size=100&id=108784&format=png&color=000000]
 * Author of several pet projects
 * I speak **English** (B1)
 
