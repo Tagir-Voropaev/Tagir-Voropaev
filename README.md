@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://t.me/tagirvorop" style="">
-    <img src="https://ltdfoto.ru/images/2024/11/10/telegram.png" alt="telegram" style="height:70px;">
+    <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" alt="telegram" style="height:70px;">
   </a>
 </div>
 
