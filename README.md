@@ -12,10 +12,10 @@
 
 [![Github](https://img.shields.io/github/followers/Tagir-Voropaev?label=Follow&style=social)](https://github.com/Tagir-Voropaev)
 
-I ❤ Open Source. [JavaScript] (https://developer.mozilla.org/en-US/docs/Web/JavaScript).
+I ❤ Open Source.
 
 * Long-time **Web3** user&contributor
-* I'm currently learning **[Python](https://www.python.org/)** <img align="center" title="python" width="15px" height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+* I'm currently learning **JavaScript** https://img.icons8.com/?size=100&id=108784&format=png&color=000000
 * Author of several pet projects
 * I speak **English** (B1)
 
